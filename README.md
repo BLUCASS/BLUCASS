@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 <h3 align="center">A passionate Python developer from Brazil</h3>
 
-- 🔭 I’m currently working on **improve my knowledge**
+- 🔭 I’m currently working on **improving my knowledge**
 
 - 🌱 I’m currently learning **Django am MySQL**
 
-- 📝 I regularly write articles on [my Instagram](my Instagram)
+- 📝 I regularly write articles on (my Instagram)
 
 - 💬 Ask me about **Python and SQL**
 
