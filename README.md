@@ -1,6 +1,3 @@
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
 class PythonDeveloper:
 
     def __init__(self):
@@ -16,4 +13,7 @@ me = PythonDeveloper()
 me.greeting()
 
 ##STATUS
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blucass)](https://github.com/blucass/github-readme-stats)
+[!Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=BLUCASS&theme=radical&show_icons=true)
+
+##SKILLLS
+(https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
