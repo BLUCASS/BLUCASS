@@ -16,4 +16,4 @@ me = PythonDeveloper()
 me.greeting()
 
 ##STATUS
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BLUCASS&hide=contribs,prs)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BLUCASS)](https://github.com/BLUCASS/github-readme-stats)
