@@ -1,6 +1,7 @@
 class Myself:
 
     def __init__(self):
+        '''Constructor method for Myself''' 
         print("Hello there! Be my guest to snoop around.")
         self.name = "Lucas Batista"
         self.role = "Python Developer"
