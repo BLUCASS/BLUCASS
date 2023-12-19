@@ -1,16 +1,13 @@
-class PythonDeveloper:
+class Myself:
 
     def __init__(self):
+        print("Hello there! Be my guest to snoop around.")
         self.name = "Lucas Batista"
         self.role = "Python Developer"
         self.languages = ["pt_BR", "en_US"]
 
-    def greeting(self):
-        print("Hello. Be my guest to explore.")
 
-
-me = PythonDeveloper()
-me.greeting()
+me = Myself()
 
 ______________________________________________________________________________________________________________________________________________________________________
 
