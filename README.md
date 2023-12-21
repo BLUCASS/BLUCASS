@@ -16,6 +16,10 @@ ________________________________________________________________________________
 ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=BLUCASS&theme=radical&show_icons=true)
 ______________________________________________________________________________________________________________________________________________________________________
 
+## PROGRAMMING LANGUAGES
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BLUCASS)
+______________________________________________________________________________________________________________________________________________________________________
+
 ## SKILLS
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ______________________________________________________________________________________________________________________________________________________________________
