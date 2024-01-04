@@ -13,11 +13,11 @@ me = Myself()
 ______________________________________________________________________________________________________________________________________________________________________
 
 ## STATUS
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=BLUCASS&theme=radical&show_icons=true)
+![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=BLUCASS&theme=radical&show_icons=true&hide=stars)
 ______________________________________________________________________________________________________________________________________________________________________
 
 ## PROGRAMMING LANGUAGES
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BLUCASS)
+![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=BLUCASS&theme=radical)
 ______________________________________________________________________________________________________________________________________________________________________
 
 ## SKILLS
