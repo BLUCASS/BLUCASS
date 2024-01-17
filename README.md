@@ -29,5 +29,5 @@ ________________________________________________________________________________
 ______________________________________________________________________________________________________________________________________________________________________
 
 ## SOCIAL MEDIA
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn' height='30'>](https://www.linkedin.com/in/lucas-pilantil-834160283/)
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn' height='30'>](https://www.linkedin.com/in/lucas-batista-pilantil/)
 ______________________________________________________________________________________________________________________________________________________________________
