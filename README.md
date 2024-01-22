@@ -1,18 +1,22 @@
 class Myself:
 
-    def __init__(self):
+    def __init__(self) -> None:
         '''Constructor method for Myself''' 
         print("Hello there! Be my guest to snoop around.")
         self.name = "Lucas Batista"
+        self.location = "Cork, Ireland"
         self.role = "Python Developer"
         self.languages = ["pt_BR", "en_US"]
 
 
 me = Myself()
+## STREAK STATUS
+______________________________________________________________________________________________________________________________________________________________________
+[![GitHub Streak](https://streak-stats.demolab.com/?user=BLUCASS&theme=radical&fire=yellow)](https://git.io/streak-stats)
 
 ______________________________________________________________________________________________________________________________________________________________________
 
-## STATUS
+## GITHUB STATUS
 ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=BLUCASS&theme=radical&show_icons=true&hide=stars)
 ______________________________________________________________________________________________________________________________________________________________________
 
