@@ -5,7 +5,7 @@ class Myself:
         print("Hello there! Be my guest to snoop around.")
         self.name = "Lucas Batista"
         self.location = "Cork, Ireland"
-        self.role = "Python Developer"
+        self.role = "Software Developer"
         self.languages = ["pt_BR", "en_US"]
 
 
