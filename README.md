@@ -1,5 +1,6 @@
-class Myself:
 ```bash
+class Myself:
+
     def __init__(self) -> None:
         '''Constructor method for Myself''' 
         print("Hello there! Be my guest to snoop around.")
@@ -9,7 +10,7 @@ class Myself:
         self.languages = ["pt_BR", "en_US"]
 
     def present_myself(self) -> str:
-        return [self.name, self.location, self.role]
+        return {'Name': self.name, 'Location': self.location, 'Role': self.role, 'Languages': self.languages}
 
 print(Myself().present_myself())
 ```
