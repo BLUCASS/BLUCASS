@@ -1,5 +1,5 @@
 class Myself:
-
+```bash
     def __init__(self) -> None:
         '''Constructor method for Myself''' 
         print("Hello there! Be my guest to snoop around.")
@@ -8,8 +8,11 @@ class Myself:
         self.role = "Software Developer"
         self.languages = ["pt_BR", "en_US"]
 
+    def present_myself(self) -> str:
+        return [self.name, self.location, self.role]
 
-me = Myself()
+print(Myself().present_myself())
+```
 ## STREAK STATUS
 ______________________________________________________________________________________________________________________________________________________________________
 [![GitHub Streak](https://streak-stats.demolab.com/?user=BLUCASS&theme=radical&fire=yellow)](https://git.io/streak-stats)
