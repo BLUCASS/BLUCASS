@@ -1,18 +1,19 @@
 ```bash
-class Myself:
+from pprint import pprint
 
+class Myself:
     def __init__(self) -> None:
-        '''Constructor method for Myself''' 
-        print("Hello there! Be my guest to snoop around.")
+        ''' Constructor method for Myself ''' 
+        print("Hi there! Be my guest to snoop around.")
         self.name = "Lucas Batista"
         self.location = "Cork, Ireland"
         self.role = "Software Developer"
-        self.languages = ["pt_BR", "en_US"]
+        self.languages = ["pt_BR", "en_US/IE"]
 
-    def present_myself(self) -> str:
+    def present_myself(self) -> dict:
         return {'Name': self.name, 'Location': self.location, 'Role': self.role, 'Languages': self.languages}
 
-print(Myself().present_myself())
+pprint(Myself().present_myself())
 ```
 ## STREAK STATUS
 ______________________________________________________________________________________________________________________________________________________________________
