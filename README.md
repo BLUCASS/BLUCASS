@@ -35,11 +35,10 @@ ________________________________________________________________________________
 
 <i class="devicon-fastapi-plain-wordmark"></i>
 <i class="devicon-amazonwebservices-plain-wordmark"></i>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+![AWS](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)
 ______________________________________________________________________________________________________________________________________________________________________
 
 ## SOCIAL MEDIA
 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' target="blank" alt='LinkedIn' height='30'>](https://www.linkedin.com/in/lucas-batista-pilantil/)
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30">](https://www.linkedin.com/in/lucas-batista-pilantil/)
 ______________________________________________________________________________________________________________________________________________________________________
