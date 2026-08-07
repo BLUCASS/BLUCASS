@@ -16,6 +16,7 @@ class Myself:
 pprint(Myself().present_myself())
 ```
 ## PROGRAMMING LANGUAGES
+
 [![Lucas's GitHub stats](https://github-stats-extended.vercel.app/api?username=BLUCASS)](https://github.com/stats-organization/github-stats-extended)
 ______________________________________________________________________________________________________________________________________________________________________
 
@@ -37,7 +38,6 @@ ________________________________________________________________________________
 <i class="devicon-amazonwebservices-plain-wordmark" font-size='10'></i>
 <i class="devicon-fastapi-plain-wordmark"></i>
 <i class="devicon-amazonwebservices-plain-wordmark"></i>
-![AWS](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)
 ______________________________________________________________________________________________________________________________________________________________________
 
 ## SOCIAL MEDIA
