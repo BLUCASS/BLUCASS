@@ -46,8 +46,8 @@ Automation Engineer, and Integration Engineer opportunities.
 
 ## Featured projects
 
-- **[Automation project]([YOUR_REPO_LINK](https://github.com/BLUCASS/NC6_Auto-Submitter))** — Automated the ESB NC6 Form with Python and Selenium, reducing manual task/time and human error.
-- **[API project]([YOUR_REPO_LINK](https://github.com/BLUCASS/WeatherAPI-with-Python-and-Tkinter))** — Built a Python integration between a Weather API with a Graphic Interface using TKinter.
+- **[Automation project](https://github.com/BLUCASS/NC6_Auto-Submitter)** — Automated the ESB NC6 Form with Python and Selenium, reducing manual task/time and human error.
+- **[API project](https://github.com/BLUCASS/WeatherAPI-with-Python-and-Tkinter)** — Built a Python integration between a Weather API with a Graphic Interface using TKinter.
 
 ## SKILLS
 
