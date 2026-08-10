@@ -1,46 +1,76 @@
-```bash
+```python
 from pprint import pprint
 
-class Myself:
-    def __init__(self) -> None:
-        ''' Constructor method for Myself ''' 
-        print("Hi there! Be my guest to snoop around.")
-        self.name = "Lucas Batista"
-        self.location = "Cork, Ireland"
-        self.role = "Software Developer"
-        self.languages = ["pt_BR", "en_US/IE"]
+my_info = {
+    "name": "Lucas",
+    "location": "Cork, Ireland",
+    "role": "Software Developer",
+    "spoken_languages": ["Portuguese (native)", "English (professional)"],
+}
 
-    def present_myself(self) -> dict:
-        return {'Name': self.name, 'Location': self.location, 'Role': self.role, 'Languages': self.languages}
+class DeveloperProfile:
+    def __init__(self, name: str, location: str, role: str, languages: list[str]) -> None:
+        self.name = name
+        self.location = location
+        self.role = role
+        self.languages = languages
 
-pprint(Myself().present_myself())
+    def present(self) -> dict:
+        return {
+            'Name': self.name,
+            'Location': self.location,
+            'Role': self.role,
+            'Languages': self.languages,
+            }
+
+def main() -> None:
+    profile = DeveloperProfile(
+    name=my_info["name"],
+    location=my_info["location"],
+    role=my_info["role"],
+    languages=my_info["spoken_languages"]
+    )
+    pprint(profile.present())
+
+if __name__ == "__main__":
+    main()
 ```
-## PROGRAMMING LANGUAGES
+# Lucas Batista
 
-[![Lucas's GitHub stats](https://github-stats-extended.vercel.app/api?username=BLUCASS)](https://github.com/stats-organization/github-stats-extended)
-______________________________________________________________________________________________________________________________________________________________________
+Software Developer based in Cork, Ireland, building Python automation,
+API integrations, and data workflows that reduce manual operational work.
+
+**Core focus:** Python · REST APIs · Selenium · FastAPI · SQL · Workflow automation  
+**Currently:** Building automation and integration projects; open to Software Developer,
+Automation Engineer, and Integration Engineer opportunities.
+
+## Featured projects
+
+- **[Automation project]([YOUR_REPO_LINK](https://github.com/BLUCASS/NC6_Auto-Submitter))** — Automated the ESB NC6 Form with Python and Selenium, reducing manual task/time and human error.
+- **[API project]([YOUR_REPO_LINK](https://github.com/BLUCASS/WeatherAPI-with-Python-and-Tkinter))** — Built a Python integration between a Weather API with a Graphic Interface using TKinter.
 
 ## SKILLS
 
-<i class="devicon-python-plain-wordmark"></i>
-<i class="devicon-selenium-original"></i>
-<i class="devicon-git-plain-wordmark"></i>
-<i class="devicon-github-original-wordmark"></i>
-<i class="devicon-flask-original-wordmark"></i>
-
-
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) ![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
-______________________________________________________________________________________________________________________________________________________________________
+<p align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="Python" width="48" height="48"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt="Flask" width="48" height="48"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" width="48" height="48"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="SQLite" width="48" height="48"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48"/>
+</p>
 
 ## STUDYING
 
-
-<i class="devicon-amazonwebservices-plain-wordmark" font-size='10'></i>
-<i class="devicon-fastapi-plain-wordmark"></i>
-<i class="devicon-amazonwebservices-plain-wordmark"></i>
-______________________________________________________________________________________________________________________________________________________________________
+<p align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" alt="Docker" width="48" height="48"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="48" height="48"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="48" height="48"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="48" height="48"/>
+</p>
 
 ## SOCIAL MEDIA
 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' target="blank" alt='LinkedIn' height='30'>](https://www.linkedin.com/in/lucas-batista-pilantil/)
-______________________________________________________________________________________________________________________________________________________________________
+---
